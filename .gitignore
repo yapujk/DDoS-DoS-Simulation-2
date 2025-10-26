@@ -1,4 +1,5 @@
-clear
+import os 
+os.system("cls")
 import sys, os
 
 if sys.stdin is None or sys.stdin.closed:
